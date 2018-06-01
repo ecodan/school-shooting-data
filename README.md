@@ -21,3 +21,9 @@ Fields:
 
 ### cps_01_formatted
 Census numbers on elementary school, high school and college populations through 2016. (2017 and 2018 are extrapolated.)  From dataset downloaded from the US Census bureau.
+Legend:
+* N = Nursery School
+* K = Kindergarten
+* E = Elementary School
+* H = High School
+* C = College
