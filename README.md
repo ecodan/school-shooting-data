@@ -20,7 +20,8 @@ Fields:
 
 
 ### cps_01_formatted
-Census numbers on elementary school, high school and college populations through 2016. (2017 and 2018 are extrapolated.)  From dataset downloaded from the US Census bureau.
+Census numbers on elementary school, high school and college populations through 2016. (2017 and 2018 are extrapolated.)  From dataset downloaded from the US Census bureau: https://www.census.gov/library/visualizations/time-series/demo/school-enrollment-cps-historical-time-series.html ("CPS Historical Time Series Visualizations on School Enrollment" in Related Information on this url: https://www.census.gov/data/tables/time-series/demo/school-enrollment/cps-historical-time-series.html)
+
 Legend:
 * N = Nursery School
 * K = Kindergarten
